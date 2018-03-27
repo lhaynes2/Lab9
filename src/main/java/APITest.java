@@ -16,7 +16,7 @@ public class APITest {
 
     /** Subscription key. Replace with your API key. */
     private static final String SUBSCRIPTION_KEY =
-            "13hc77781f7e4b19b5fcdd72a8df7156";
+            "6996722e323a4c749ad3a1726c236f90";
 
     /**
      * Region to use.
@@ -29,7 +29,7 @@ public class APITest {
      * using a free trial subscription key, you should not need to change this region.
      */
     private static final String URI_BASE =
-            "https://westcentralus.api.cognitive.microsoft.com/vision/v1.0/analyze";
+            "https://westuscentralus.api.cognitive.microsoft.com/vision/v1.0/analyze";
 
 
     /**
